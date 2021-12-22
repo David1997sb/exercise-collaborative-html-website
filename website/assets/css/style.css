@@ -1,3 +1,12 @@
 body{
     background: #BDBDBD;
 }
+.col-form-label{
+    margin-bottom: 20px;
+}
+.placeholder{
+    margin:25px 0px 25px 120px;
+}
+.contact{
+    margin-top: 50px;
+}
